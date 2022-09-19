@@ -13,7 +13,7 @@ In order run this script you will need to
      `pip install -r requirements.txt`
    
    #4:<br>
-`python spotify_generator.py` or :<br> `python spotify_generator.py -n AMOUNT -o OUTPUT_FILE`
+`python main.py` or :<br> `python main.py -n AMOUNT -o OUTPUT_FILE`
    
    #5 [Thank Davide for the Original Code](https://github.com/davide-acanfora)
       
