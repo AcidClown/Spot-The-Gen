@@ -3,6 +3,13 @@ This Python script allows users to mass create Spotify Accounts with out the use
 # How do I get started?
 In order run this script you will need to
 
+  #1 Download and extract the zip file
+  #2 Run :<br> `pip install -r requirments.txt`
+  #2 Run :<br> `python Header.py`
+  
+
+OR
+
   #1
     Download and extract the Zip file
    
