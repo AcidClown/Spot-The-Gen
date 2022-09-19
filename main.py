@@ -27,7 +27,7 @@ l         ]     o !__./
        |           \    
        |            \
         '''
-Nut = "          Spot-The-Gen\nmade by JoshVear, Thanks to daniieljc for the OC"
+Nut = "          Spot-The-Gen\nmade by JoshVear, Thanks to davide-acanfora for the OC"
  
 Write.Print(Add.Add(banner1, Nut, 4), Colors.blue_to_green, interval=0.0001)
                 
