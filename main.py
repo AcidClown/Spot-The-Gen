@@ -27,7 +27,7 @@ l         ]     o !__./
        |           \    
        |            \
         '''
-Nut = "          Spot-The-Gen\nmade by JoshVear, Thanks to davide-acanfora for the OC"
+Nut = "        Spot-The-Gen\nmade by JoshVear, Thanks to davide-acanfora for the OC"
  
 Write.Print(Add.Add(banner1, Nut, 4), Colors.blue_to_green, interval=0.0001)
                 
@@ -51,7 +51,7 @@ def getRandomString(length): #Letters and numbers
 
 yopmail = "yopmail.com"
 
-custommail = Write.Input("would you like to use custom email domain? [y/n] : ", Colors.blue_to_green, interval=0.01)
+custommail = Write.Input("would you like to use custom email domain? yopmail.com is default [y/n] : ", Colors.blue_to_green, interval=0.01)
 if custommail == "y":
     mail = Write.Input("What mail domain would you like to use? Ex.[yopmail.com] : ")
 else:
