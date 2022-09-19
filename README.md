@@ -15,5 +15,5 @@ In order run this script you will need to
    #4:<br>
 `python spotify_generator.py` or :<br> `python spotify_generator.py -n AMOUNT -o OUTPUT_FILE`
    
-   #5 [requests](https://github.com/davide-acanfora) module: `Thank David for the Original Code`
+   #5 [Thank David for the Original Code](https://github.com/davide-acanfora)
       
