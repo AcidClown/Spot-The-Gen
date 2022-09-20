@@ -65,4 +65,4 @@ https://github.com/davide-acanfora
 
 ## Contacts
 
-<a href="https://discord.com/users/997272523702018108/"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-01.png" /></a>  <a href="mailto:josh72047204+git@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
+<a href="https://discord.com/users/997272523702018108/"><img src="https://th.bing.com/th/id/R.c95ac99acc3d28d305bb54e9fcb9c931?rik=%2fZgcY2EgFcYSOw&riu=http%3a%2f%2fwww.apkmirror.com%2fwp-content%2fuploads%2f2016%2f07%2f577d7444b1370.png&ehk=aaDnDR8u1rRz1HgP%2ff4ppLsK442yhumHjAUCSUjRQrA%3d&risl=&pid=ImgRaw&r=0" /></a>  <a href="mailto:josh72047204+git@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
