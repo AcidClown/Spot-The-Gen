@@ -45,6 +45,8 @@ pip install -r requirments.txt
 
 python Head.py
 
+## Feel free to star this repository
+
 
 ## License
 
