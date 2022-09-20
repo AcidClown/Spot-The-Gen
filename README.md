@@ -3,7 +3,7 @@
 # Spot-The-Gen
 
 ## Table of Contents
-
+- [Options Added](#added-options)
 - [Description](#description)
 - [Screenshots](#screenshots)
 - [Built With](#built-with)
@@ -47,6 +47,13 @@ python Head.py
 
 ## Feel free to star this repository
 
+## Options Added
+          -Made Easy to Run
+          -Custom Username
+          -Custom Password
+          -Custom Email Domain
+          
+
 
 ## License
 
@@ -58,4 +65,4 @@ https://github.com/davide-acanfora
 
 ## Contacts
 
-<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:josh72047204+git@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
+<a href="https://discord.com/users/997272523702018108/"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-01.png" /></a>  <a href="mailto:josh72047204+git@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
